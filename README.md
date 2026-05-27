@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Nageshlgowda
-- 👀 I’m interested in coding, Hiking, Photography, camping
-- 🌱 I’m currently learning Python, SQL, Golang.
-- 💞️ I’m looking to collaborate on development projects.
-- 📫 How to reach me nageshlg12@gmail.com
+Hi there I'm Nagesh Lakshmana Gowda
 
-<!---
-Nageshlgowda/Nageshlgowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer passionate about building scalable applications and exploring modern technologies.
+Currently learning and improving skills in Java, Python, SQL, Golang, and AI technologies.
+Interested in Backend Development, AI Agents, APIs, Cloud, and System Design.
+Open to collaborating on development projects, open-source contributions, and innovative ideas.
+Always curious about learning new tools and solving real-world problems through technology.
+
+Tech Stack
+Languages: Java, Python, Golang, SQL
+Technologies: REST APIs, Databases, Git, AI/LLMs
+Currently Exploring: AI Agents, RAG, LangChain, Distributed Systems
+Connect With Me
+
+Email: nageshlg12@gmail.com
